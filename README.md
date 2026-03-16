@@ -53,13 +53,15 @@ TABULAR COLUMN
 Rectifier with filter
 ![image](https://github.com/Abhinavguru-cse/EXP-4/blob/main/442WhatsApp%20Image%202026-03-16%20at%2012.20.30%20PM.jpeg?raw=true)
 
+![image](https://github.com/Abhinavguru-cse/EXP-4/blob/main/443WhatsApp%20Image%202026-03-16%20at%2012.20.30%20PM.jpeg?raw=true)
+
 WAVEFORM:
 
 ![image](https://github.com/Viveka-Sengalvarayan/BEEE-EXP-4/blob/main/4.5.png?raw=true)
 
 ![image](https://github.com/Viveka-Sengalvarayan/BEEE-EXP-4/blob/main/4.6.png?raw=true)
 
-![image](https://github.com/Abhinavguru-cse/EXP-4/blob/main/443WhatsApp%20Image%202026-03-16%20at%2012.20.30%20PM.jpeg?raw=true)
+
 
 
 RESULT:

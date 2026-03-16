@@ -47,8 +47,11 @@ Bridge rectifier with filter:
 TABULAR COLUMN
 Rectifier without filter
 
+![image](https://github.com/Abhinavguru-cse/EXP-4/blob/main/441WhatsApp%20Image%202026-03-16%20at%2012.20.29%20PM.jpeg?raw=true0)
+
 TABULAR COLUMN
 Rectifier with filter
+![image](https://github.com/Abhinavguru-cse/EXP-4/blob/main/442WhatsApp%20Image%202026-03-16%20at%2012.20.30%20PM.jpeg?raw=true)
 
 WAVEFORM:
 
